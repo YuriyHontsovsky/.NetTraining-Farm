@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmClasses", "FarmClasses\FarmClasses.csproj", "{9A4DD6A3-D150-4E09-B79A-916C9BC74D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmConsoleApp", "FarmConsoleApp\FarmConsoleApp.csproj", "{C273E9AA-5001-46F0-AAC6-EAE1BD2B64B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4DD6A3-D150-4E09-B79A-916C9BC74D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4DD6A3-D150-4E09-B79A-916C9BC74D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4DD6A3-D150-4E09-B79A-916C9BC74D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4DD6A3-D150-4E09-B79A-916C9BC74D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C273E9AA-5001-46F0-AAC6-EAE1BD2B64B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C273E9AA-5001-46F0-AAC6-EAE1BD2B64B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C273E9AA-5001-46F0-AAC6-EAE1BD2B64B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C273E9AA-5001-46F0-AAC6-EAE1BD2B64B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {104F4CE8-CF8B-4E78-BA50-6BB15C522F93}
+	EndGlobalSection
+EndGlobal
